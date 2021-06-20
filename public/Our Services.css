@@ -1,0 +1,28 @@
+.main {
+  margin-top: 100px;
+}
+.li {
+  font-size: 25px;
+  font-family: cursive;
+}
+.disp {
+  margin-left: 30px;
+}
+
+.title {
+  color: black;
+  font-size: 45px;
+  font-family: cursive;
+  text-decoration: underline;
+  text-align: center;
+}
+.subtitle {
+  color: #e50914;
+  font-size: 30px;
+  font-family: cursive;
+  text-align: left;
+}
+.video {
+  margin-left: 500px;
+  margin-top: -500px;
+}
